@@ -8,7 +8,7 @@ def pretty_print_nds(nds)
   #pp directors_database
   # Change the code below to pretty print the nds with pp
   pp nds
-  binding.pry
+  #binding.pry
   nil
 end
 
